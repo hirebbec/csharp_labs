@@ -1,0 +1,6 @@
+/Users/hirebbec/Desktop/csharp_labs/laba1/ex02/bin/Debug/ex02.exe
+/Users/hirebbec/Desktop/csharp_labs/laba1/ex02/bin/Debug/ex02.pdb
+/Users/hirebbec/Desktop/csharp_labs/laba1/ex02/obj/anycpu/Debug/ex02.csproj.CoreCompileInputs.cache
+/Users/hirebbec/Desktop/csharp_labs/laba1/ex02/obj/anycpu/Debug/ex02.exe
+/Users/hirebbec/Desktop/csharp_labs/laba1/ex02/obj/anycpu/Debug/ex02.pdb
+/Users/hirebbec/Desktop/csharp_labs/laba1/ex02/obj/anycpu/Debug/ex02.csproj.AssemblyReference.cache

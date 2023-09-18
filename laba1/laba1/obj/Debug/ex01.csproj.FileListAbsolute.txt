@@ -1,0 +1,5 @@
+/Users/hirebbec/Desktop/csharp_labs/laba1/laba1/bin/Debug/laba1.exe
+/Users/hirebbec/Desktop/csharp_labs/laba1/laba1/bin/Debug/laba1.pdb
+/Users/hirebbec/Desktop/csharp_labs/laba1/laba1/obj/Debug/ex01.csproj.CoreCompileInputs.cache
+/Users/hirebbec/Desktop/csharp_labs/laba1/laba1/obj/Debug/laba1.exe
+/Users/hirebbec/Desktop/csharp_labs/laba1/laba1/obj/Debug/laba1.pdb

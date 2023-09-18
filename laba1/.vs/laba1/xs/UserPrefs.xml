@@ -1,27 +1,27 @@
-﻿<Properties StartupConfiguration="{9ED43850-57C1-410B-8353-BA8AA8F12F04}|Default">
-  <MonoDevelop.Ide.ItemProperties.laba1 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{6F2CB50A-7714-4ABA-94CB-45C59A2E7BCA}|Default">
+  <MonoDevelop.Ide.ItemProperties.ex01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ex02 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="laba1/Program.cs" Line="9" Column="37" />
       <File FileName="laba1/Properties/Vector.cs" />
-      <File FileName="laba1/Properties/AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="laba1/Vector.cs" Line="8" Column="1" />
+      <File FileName="laba1/Properties/AssemblyInfo.cs" />
+      <File FileName="laba1/Vector.cs" />
+      <File FileName="ex02/Program.cs" Line="13" Column="28" />
+      <File FileName="ex02/Set.cs" />
+      <File FileName="ex02/Menu.cs" Line="94" Column="61" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="laba1" expanded="True">
-            <Node name="laba1" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="AssemblyInfo.cs" selected="True" />
-              </Node>
+            <Node name="ex01" expanded="True" />
+            <Node name="ex02" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Menu.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
