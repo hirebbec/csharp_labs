@@ -6,7 +6,7 @@ namespace laba1
     {
         public static void Main(string[] args)
         {
-            Vector v1 = new Vector(3, -4, 0);
+            Vector v1 = new Vector(5, -4, 0);
             Vector v2 = new Vector(4, -4, -2);
 
             Console.WriteLine($"Вектор 1 -> {v1}");
